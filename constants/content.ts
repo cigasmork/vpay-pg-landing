@@ -86,7 +86,7 @@ export const content: Record<Language, Content> = {
         ]
     },
     team: {
-      title: '신뢰받는 전문가 팀',
+      title: '팀의 역량과 전문성',
       subtitle: '각 분야 최고의 전문가들이 신뢰의 아키텍처를 구축합니다.',
       departments: [
         { name: '기술개발부문', description: '안정적인 멀티체인 노드, HSM 보안, 실시간 정산 시스템을 포함한 최첨단 PG 인프라를 개발합니다.', icon: 'TechDevIcon' },
@@ -214,7 +214,7 @@ export const content: Record<Language, Content> = {
         ]
     },
     team: {
-      title: 'A Trusted Team of Experts',
+      title: "Team's capabilities and expertise",
       subtitle: 'Top experts in each field are building an architecture of trust.',
       departments: [
         { name: 'Technology Development Division', description: 'Develops cutting-edge PG infrastructure, including stable multi-chain nodes, HSM security, and real-time settlement systems.', icon: 'TechDevIcon' },
