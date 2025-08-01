@@ -7,7 +7,7 @@ export const content: Record<Language, Content> = {
       nav: {
         why: '필요성',
         services: '서비스',
-        team: '조직',
+        team: '팀',
         tech: '기술',
         roadmap: '로드맵',
         contact: '문의',
@@ -86,7 +86,7 @@ export const content: Record<Language, Content> = {
         ]
     },
     team: {
-      title: '우리의 조직',
+      title: '신뢰받는 전문가 팀',
       subtitle: '각 분야 최고의 전문가들이 신뢰의 아키텍처를 구축합니다.',
       departments: [
         { name: '기술개발부문', description: '안정적인 멀티체인 노드, HSM 보안, 실시간 정산 시스템을 포함한 최첨단 PG 인프라를 개발합니다.', icon: 'TechDevIcon' },
@@ -214,7 +214,7 @@ export const content: Record<Language, Content> = {
         ]
     },
     team: {
-      title: 'Our Organization',
+      title: 'A Trusted Team of Experts',
       subtitle: 'Top experts in each field are building an architecture of trust.',
       departments: [
         { name: 'Technology Development Division', description: 'Develops cutting-edge PG infrastructure, including stable multi-chain nodes, HSM security, and real-time settlement systems.', icon: 'TechDevIcon' },
