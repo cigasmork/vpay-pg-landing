@@ -59,7 +59,7 @@ export const content: Record<Language, Content> = {
           { text: '주요 이커머스 플랫폼 플러그인 및 범용 API 제공', icon: 'ApiIcon'},
           { text: '암호화폐-원화 맞춤형 정산 솔루션 지원', icon: 'SettlementIcon'},
           { text: 'POS 연동, 이메일 청구 등 온/오프라인 결제 환경 지원', icon: 'PosIcon'},
-          { text: '기존 PG사 대비 혁신적으로 낮은 수수료', icon: 'LowFeeIcon'}
+          { text: '혁신적으로 낮은 RWA NFT 거래 수수료', icon: 'LowFeeIcon'}
         ]
       },
       consumers: {
